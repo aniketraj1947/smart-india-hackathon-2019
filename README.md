@@ -2,4 +2,4 @@
 
 An android app to show improved GPS location coordinates using the correction data from GAGAN satellite made available in real time on ISRO Hackathon Server. 
 
-<Details to be added>
+_Details to be added_
